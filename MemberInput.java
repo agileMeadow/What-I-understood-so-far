@@ -35,8 +35,8 @@ class MemberInfo2 {
 	private int age;
 	private String email;
 	private String address;
+	//Field
 	
-	// Class
 	public MemberInfo2(String name, int age, String email, String address) {
 		this.name = name;
 		this.age = age;
