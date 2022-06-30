@@ -2,7 +2,7 @@ package p2022_06_29;
 
 import java.util.Scanner;
 
-public class Github0629 {
+public class MemberInput2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
